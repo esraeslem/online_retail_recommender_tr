@@ -1,0 +1,14 @@
+German invoice-product basket size: 18370 association rules mined
+
+User 1 | basket item 21987 -> PACK OF 6 SKULL PAPER CUPS
+    recommend 21086 -> SET/6 RED SPOTTY PAPER CUPS
+    recommend 21988 -> PACK OF 6 SKULL PAPER PLATES
+
+User 2 | basket item 23235 -> STORAGE TIN VINTAGE LEAF
+    recommend 23243 -> SET OF TEA COFFEE SUGAR TINS PANTRY
+    recommend 23244 -> ROUND STORAGE TIN VINTAGE LEAF
+
+User 3 | basket item 22747 -> POPPY'S PLAYHOUSE BATHROOM
+    recommend 22746 -> POPPY'S PLAYHOUSE LIVINGROOM 
+    recommend 22745 -> POPPY'S PLAYHOUSE BEDROOM 
+
